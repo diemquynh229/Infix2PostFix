@@ -1,0 +1,6 @@
+Error: too many operands(25)
+Error: too many operator(^)
+Error: no closing parenthesis detected
+2 3 * 12 / -16 - 
+Error: too many operands(4)
+Error: too many operator(*)
